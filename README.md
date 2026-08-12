@@ -2,7 +2,7 @@
 
 > An interactive web-based tool that lets you **see** numerical root-finding algorithms work step by step — not just run them.
 
-![App Screenshot](https://i.imgur.com/placeholder.png)
+![App Screenshot](https://i.imgur.com/0xaDuyr.png)
 
 ---
 
