@@ -2,6 +2,8 @@
 
 > An interactive web-based tool that lets you **see** numerical root-finding algorithms work step by step — not just run them.
 
+![App Screenshot](https://i.imgur.com/placeholder.png)
+
 ---
 
 ## Table of Contents
@@ -18,6 +20,14 @@
 - [Key Concepts Explained](#key-concepts-explained)
 - [Known Limitations](#known-limitations)
 - [Future Plans](#future-plans)
+
+---
+
+## Live Demo
+
+🌐 **[https://root-finder-2099.netlify.app/](https://root-finder-2099.netlify.app/)**
+
+No installation needed — just open the link and start using it.
 
 ---
 
